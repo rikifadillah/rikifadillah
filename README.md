@@ -2,7 +2,7 @@
 - 👀 I'm interested in web developers and mobile developers
 - 🌱 I'm currently learning "html, css, javascript, java, python"
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email: rikifadillah9@gmail.com
 
 <!---
 rikifadillah/rikifadillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
