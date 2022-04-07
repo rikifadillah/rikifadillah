@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rikifadillah
 - 👀 I'm interested in web developers and mobile developers
 - 🌱 I'm currently learning "html, css, javascript, java, python"
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: rikifadillah9@gmail.com
 
 <!---
