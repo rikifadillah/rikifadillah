@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rikifadillah. I'm not only interested in technology, if I cut my skin, the soul of art flows in my blood
 - 👀 I'm interested in AI engineer, Web3, web developers and mobile developers
-- 🌱 I'm currently learning "html, css, javascript, java, python"
+- 🌱 I'm currently learning "html, css, javascript, java, python dll :( "
 - 📫 How to reach me email: rikifadillah9@gmail.com / rikifadillah32@gmail.com
 - Medium link https://medium.com/@rikifadillah32 
 
