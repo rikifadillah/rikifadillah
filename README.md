@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rikifadillah. I'm not only interested in technology, if I cut my skin, literature flows in my blood
+- 👋 Hi, I’m @rikifadillah. I'm not only interested in technology, if I cut my skin, the soul of art flows in my blood
 - 👀 I'm interested in AI engineer, Web3, web developers and mobile developers
 - 🌱 I'm currently learning "html, css, javascript, java, python"
 - 📫 How to reach me email: rikifadillah9@gmail.com / rikifadillah32@gmail.com
