@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rikifadillah
-- 👀 I'm interested in web developers and mobile developers
+- 👀 I'm interested in AI engineer, Web3, web developers and mobile developers
 - 🌱 I'm currently learning "html, css, javascript, java, python"
 - 📫 How to reach me email: rikifadillah9@gmail.com
 
